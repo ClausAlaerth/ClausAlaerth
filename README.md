@@ -30,7 +30,7 @@
     And yes, I'm aware it's not exactly easy to earn my way into the developer ranks. I believe I can do it, even if it's through sheer force of will. I will show the programming market who I am strive to become not the best, but, realistically, someone I can be proud of.
 </p>
 
-## Currently in my repertoire:bookmark_tabs:
+## Currently in my repertoire📖
 
 <p>
     Foot on the ground, here. My knowledge and skills are <strong>pathetically</strong> low, compared to some other people I know.
