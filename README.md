@@ -90,9 +90,3 @@
 ## Github Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClausAlaerth&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ClausAlaerth&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-## Repositories
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ClausAlaerth&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ClausAlaerth/dio-lab-open-source)
