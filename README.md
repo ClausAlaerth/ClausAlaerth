@@ -1,6 +1,6 @@
 # 👨‍💻Hello, my name is Lucas Aquino🎮
 
-<p>I am an aspiring Developer, specializing in Back-end with my roots buried deeply in Python.</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 ## Contact☎️
 
