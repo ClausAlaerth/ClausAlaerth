@@ -1,6 +1,8 @@
 # 👨‍💻Hello, my name is Lucas Aquino🎮
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<div align="center">
+    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Aspiring+Back-end+Developer;Roots+buried+deep+in+Python)](https://git.io/typing-svg)
+</div>
 
 ## Contact☎️
 
@@ -27,7 +29,7 @@
 #### Languages
 
 <div align="center">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" target="_blank">
+    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 </div>
 
 #### Frameworks
@@ -55,6 +57,7 @@
 
 <div align="center">
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" target="_blank">
+    
 </div>
 
 #### Current Known Languages
