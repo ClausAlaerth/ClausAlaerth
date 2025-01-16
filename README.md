@@ -16,13 +16,6 @@
         <a href="https://steamcommunity.com/id/clausalaerth/" title="Steam" target="_blank">
             <img src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white" alt="Steam"/></a>
     </p>
-
-    
-    <a href="https://www.linkedin.com/in/aquino-lucas/" target="linkedin"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" target="_blank">
-    <a href="https://mailto:lc.aquinodeoliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" target="_blank">
-    <a href="https://steamcommunity.com/id/clausalaerth/" target="steam"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
 
 ## About me😀
