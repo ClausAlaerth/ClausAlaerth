@@ -8,7 +8,7 @@
 
 <div class="contact-box" align="left">
     <h3 class="contact-header">
-        Me encontre por aqui:
+        You can find me here:
     </h3>
     <p class="link-box" align="left">
         <a href="https://mailto:lc.aquinodeoliveira@gmail.com" title="Gmail" target="_blank">
@@ -24,22 +24,21 @@
 
 <div class="about-box" align="left">
     <h3 class="perspective-header">
-        Um pouco da minha perspectiva profissional:
+        A little bit about my perspective:
     </h3>
     <p class="perspective-text" text-align="justify">
-        Sou um desenvolvedor focado em backend, com minhas
-raízes firmemente fincadas em Python. Tenho facilidade de
-aprendizado e possuo forte desempenho com trabalho em
-equipe, além disso, graças às minhas experiências anteriores,
-sou capaz de manter um fluxo de eficiência constante mesmo
-sob pressão, levantando resultados rápidos, porém mantendo
-sempre a qualidade.
+        I am a back-end focused developer,
+        with my roots buried deep within Python.
+        I can learn new things with ease and when working with others,
+        I can strongly add to the team. Thanks to my previous experiences,
+        I am capable of mantaining a constant stream of eficiency, even under pressure,
+        delivering quick results while not sacrificing quality for the sake of it.
     </p>
 </div>
 
 <div class="tech-box" align="left">
     <h3 class="tech-header">
-        Tecnologias em meu repertório:
+        Tecnologies in my repertoire:
     </h3>
     <p class="perspective-text" align="left">
         <img src="https://skillicons.dev/icons?i=html,css,py,django,fastapi,mysql,mongodb,docker,selenium,git">
