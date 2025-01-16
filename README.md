@@ -1,10 +1,23 @@
-<div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=046CF7FF&center=true&vCenter=true&width=620&height=70&lines=Hello,+name+is+Lucas;Aspiring+Back-end+Python+Developer;Always+in+search+of+knowledge!" alt="Typing SVG" />
+<div class="title-box" align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=046CF7FF&center=true&vCenter=true&width=620&height=70&lines=Hello,+my+name+is+Lucas;Aspiring+Back-end+Python+Developer;Always+in+search+of+knowledge!" alt="Typing SVG" />
 </div>
 
-## Contact☎️
+<div class="contact-box" align="left">
+    <p>
+        <b>Me encontre por aqui:</b>
+    </p><br>
+    <p class="link-box" align="left">
+        <a href="https://mailto:lc.aquinodeoliveira@gmail.com" title="Gmail" target="_blank">
+            <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+        <a href="https://www.linkedin.com/in/aquino-lucas/" title="LinkedIn" target="_blank">
+            <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+        <a href="https://www.instagram.com/cabo_perdido" title="Instagram" target="_blank">
+            <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+        <a href="https://steamcommunity.com/id/clausalaerth/" title="Steam" target="_blank">
+            <img src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white" alt="Steam"/></a>
+    </p>
 
-<div align="center">
+    
     <a href="https://www.linkedin.com/in/aquino-lucas/" target="linkedin"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" target="_blank">
     <a href="https://mailto:lc.aquinodeoliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
