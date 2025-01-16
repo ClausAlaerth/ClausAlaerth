@@ -1,7 +1,5 @@
 <div align="center">
-<h1>
-    👨‍💻<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=046CF7FF&center=true&vCenter=true&width=620&height=70&lines=Howdy,+the+name's+Lucas;Aspiring+Back-end+Python+Developer;Always+in+search+of+knowledge!" alt="Typing SVG" />🎮
-</h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=046CF7FF&center=true&vCenter=true&width=620&height=70&lines=Hello,+name+is+Lucas;Aspiring+Back-end+Python+Developer;Always+in+search+of+knowledge!" alt="Typing SVG" />
 </div>
 
 ## Contact☎️
@@ -9,7 +7,7 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/aquino-lucas/" target="linkedin"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" target="_blank">
-    <a href="mailto:lc.aquinodeoliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://mailto:lc.aquinodeoliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" target="_blank">
     <a href="https://steamcommunity.com/id/clausalaerth/" target="steam"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
