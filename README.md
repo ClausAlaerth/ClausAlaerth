@@ -2,10 +2,12 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=046CF7FF&center=true&vCenter=true&width=620&height=70&lines=Hello,+my+name+is+Lucas;Aspiring+Back-end+Python+Developer;Always+in+search+of+knowledge!" alt="Typing SVG" />
 </div>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 <div class="contact-box" align="left">
-    <p>
-        <b>Me encontre por aqui:</b>
-    </p><br>
+    <h3 class="contact-header">
+        Me encontre por aqui:
+    </h3>
     <p class="link-box" align="left">
         <a href="https://mailto:lc.aquinodeoliveira@gmail.com" title="Gmail" target="_blank">
             <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
@@ -15,6 +17,21 @@
             <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
         <a href="https://steamcommunity.com/id/clausalaerth/" title="Steam" target="_blank">
             <img src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white" alt="Steam"/></a>
+    </p>
+</div>
+
+<div class="about-box" align="left">
+    <h3 class="perspective-header">
+        Um pouco da minha perspectiva profissional:
+    </h3>
+    <p class="perspective-text" text-align="justify">
+        Sou um desenvolvedor focado em backend, com minhas
+raízes firmemente fincadas em Python. Tenho facilidade de
+aprendizado e possuo forte desempenho com trabalho em
+equipe, além disso, graças às minhas experiências anteriores,
+sou capaz de manter um fluxo de eficiência constante mesmo
+sob pressão, levantando resultados rápidos, porém mantendo
+sempre a qualidade.
     </p>
 </div>
 
