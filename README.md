@@ -22,7 +22,7 @@
 
 <div class="about-box" align="left">
     <h3 class="perspective-header">
-        A little bit about my perspective:
+        A little bit about myself:
     </h3>
     <p class="perspective-text" text-align="justify">
         I am a back-end focused developer,
@@ -36,10 +36,11 @@
 
 <div class="tech-box" align="left">
     <h3 class="tech-header">
-        Tecnologies in my repertoire:
+        Tools & Technologies:
     </h3>
-    <p class="perspective-text" align="left">
-        <img src="https://skillicons.dev/icons?i=html,css,py,django,fastapi,mysql,mongodb,docker,selenium,git" alt="TESTE">
+    <p class="tech-icons" align="left">
+        <img src="https://skillicons.dev/icons?i=html,css,py,django,fastapi,mysql,mongodb,docker,selenium,git,github" alt="TESTE">
+    </p>
 </div>
 
 <div align="center">
