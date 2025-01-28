@@ -39,7 +39,7 @@
         Tecnologies in my repertoire:
     </h3>
     <p class="perspective-text" align="left">
-        <img src="https://skillicons.dev/icons?i=html,css,py,django,fastapi,mysql,mongodb,docker,selenium,git">
+        <img src="https://skillicons.dev/icons?i=html,css,py,django,fastapi,mysql,mongodb,docker,selenium,git" alt="TESTE">
 </div>
 
 <div align="center">
