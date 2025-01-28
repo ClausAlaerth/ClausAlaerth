@@ -11,7 +11,7 @@
         You can find me here:
     </h3>
     <p class="link-box" align="left">
-        <a href="mailto:lc.aquinodeoliveira@gmail.com" title="Gmail" target="">
+        <a href="mailto:lc.aquinodeoliveira@gmail.com" title="Gmail" target="_blank">
             <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"/></a>
         <a href="https://www.linkedin.com/in/aquino-lucas/" title="LinkedIn" target="_blank">
             <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"/></a>
