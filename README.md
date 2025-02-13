@@ -25,12 +25,12 @@
         A little bit about myself:
     </h3>
     <p class="perspective-text" text-align="justify">
-        I am a back-end focused developer,
-        with my roots buried deep within Python.
-        I can learn new things with ease and when working with others,
-        I can strongly add to the team. Thanks to my previous experiences,
-        I am capable of maintaining a constant stream of efficiency, even under pressure,
-        delivering quick results while not sacrificing quality for the sake of it.
+        I am a back-end focused developer, 
+        with my roots buried deep within Python. 
+        I can learn new things with ease and when working with others, 
+        I can strongly add to the team, always adapting to new technologies as they evolve with time. 
+        Thanks to my previous experiences, I am capable of maintaining a constant stream of efficiency, 
+        even under pressure, delivering quick results while not sacrificing quality for the sake of it.
     </p>
 </div>
 
