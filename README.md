@@ -39,7 +39,7 @@
         Tools & Technologies:
     </h3>
     <p class="tech-icons" align="left">
-        <img src="https://skillicons.dev/icons?i=html,css,py,django,fastapi,mysql,mongodb,docker,selenium,git,github" alt="TESTE">
+        <img src="https://skillicons.dev/icons?i=html,css,py,django,fastapi,mysql,mongodb,docker,selenium,git,github,figma" alt="TESTE">
     </p>
 </div>
 
