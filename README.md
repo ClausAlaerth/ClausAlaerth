@@ -12,11 +12,13 @@
     </h3>
     <p class="link-box" align="left">
         <a href="https://www.linkedin.com/in/aquino-lucas/" title="LinkedIn" target="_blank">
-            <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"/></a>
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin"/></a>
         <a href="https://www.instagram.com/cabo_perdido" title="Instagram" target="_blank">
-            <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a>
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram"/></a>
+         <a href="mailto:lc.aquinodeoliveira@gmail.com" title="Gmail" target="_blank">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail"/></a>
         <a href="https://steamcommunity.com/id/clausalaerth/" title="Steam" target="_blank">
-            <img src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white" alt="Steam"/></a>
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=steam"/></a>
     </p>
 </div>
 
@@ -25,12 +27,21 @@
         A little bit about myself:
     </h3>
     <p class="perspective-text" text-align="justify">
-        I am a back-end focused developer, 
-        with my roots buried deep within Python. 
-        I can learn new things with ease and when working with others, 
-        I can strongly add to the team, always adapting to new technologies as they evolve with time. 
-        Thanks to my previous experiences, I am capable of maintaining a constant stream of efficiency, 
-        even under pressure, delivering quick results while not sacrificing quality for the sake of it.
+        I am a back-end focused developer, with my roots buried deep within Python. 
+        I can learn new things with ease and when working with others, I strongly add
+        to the team, always adapting to new technologies as they evolve with time. 
+        Thanks to my previous experiences, I am capable of maintaining a constant
+        stream of efficiency, even under pressure, delivering quick results while
+        not sacrificing quality for the sake of it.
+    </p>
+    <p class="perspective-text" text-align="justify">
+        When it comes to my abilities, I wield solid knowledge of the Python language
+        and its packages, with experience in developing RESTful APIs using Django and
+        FastAPI, in addition to fundamental comprehension in modeling databases such as
+        MySQL and SQLite3, managing data with PowerBI and containers with Docker.
+        When reading codes, I go after the details, so that I can detect any faults and
+        errors. Creativity and versatility are also in my repertoire, along with my good
+        dispositions when working in teams, assuring great results.
     </p>
 </div>
 
@@ -38,8 +49,10 @@
     <h3 class="tech-header">
         Tools & Technologies:
     </h3>
-    <p class="tech-icons" align="left">
-        <img src="https://skillicons.dev/icons?i=html,css,py,django,fastapi,mysql,mongodb,docker,selenium,git,github,figma" alt="TESTE">
+    <p align="center">
+      <a href="https://go-skill-icons.vercel.app/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,py,django,fastapi,mysql,pbi,docker,gcp,selenium,git,github,figma"/>
+      </a>
     </p>
 </div>
 
