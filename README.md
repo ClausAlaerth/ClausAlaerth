@@ -49,5 +49,5 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clausalaerth&layout=compact&theme=radical" width="44%" height="230px">
-    <img src="https://github-readme-stats.vercel.app/api?username=clausalaerth&show_icons=true&theme=radical" width="55%" height="230px">
+    <img src="https://github-readme-stats.vercel.app/api?username=clausalaerth&show_icons=true&theme=radical" width="57%" height="230px">
 </div>
