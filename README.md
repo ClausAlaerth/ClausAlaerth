@@ -5,7 +5,6 @@
 ---
 
 <img src="https://i.pinimg.com/736x/eb/de/8c/ebde8c595ec33c9cf071384186e9e8f1.jpg" alt="ilustração de um computador" width="220px" height="450px" align="right">
-<img src="https://i.pinimg.com/736x/eb/de/8c/ebde8c595ec33c9cf071384186e9e8f1.jpg" alt="ilustração de um computador" width="220px" height="450px" align="left">
 
 <div class="contact-box" align="left">
     <h3 class="contact-header">
@@ -49,6 +48,6 @@
 ---
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clausalaerth&layout=compact&theme=radical" width="300px" height="230px">
-    <img src="https://github-readme-stats.vercel.app/api?username=clausalaerth&show_icons=true&theme=radical" width="390px" height="230px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clausalaerth&layout=compact&theme=radical" width="30%" height="230px">
+    <img src="https://github-readme-stats.vercel.app/api?username=clausalaerth&show_icons=true&theme=radical" width="40%" height="230px">
 </div>
