@@ -1,14 +1,15 @@
 <div class="title-box" align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=046CF7FF&center=true&vCenter=true&width=620&height=70&lines=Hello,+my+name+is+Lucas+Aquino;Python+Developer+in+ascension;Always+in+search+of+knowledge!" alt="Typing SVG" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=200&color=F70CF6&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Lucas+Aquino!;Desenvolvedor+com+foco+em+Python!;Me+aprofundando+em+Engenharia+e+An%C3%A1lise+de+Dados!" alt="Typing SVG" /></a>
 </div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://i.pinimg.com/736x/eb/de/8c/ebde8c595ec33c9cf071384186e9e8f1.jpg" alt="ilustração de um computador" width="300px" align="right">
+<img src="https://i.pinimg.com/736x/7c/5e/f1/7c5ef1a84587cf7ed92e43f421fd8b1b.jpg" alt="ilustração de um computador" width="300px" align="left">
 
 <div class="contact-box" align="left">
     <h3 class="contact-header">
-        You can find me here:
+        Você pode me encontrar aqui:
     </h3>
     <p class="link-box" align="left">
         <a href="https://www.linkedin.com/in/aquino-lucas/" title="LinkedIn" target="_blank">
@@ -24,48 +25,35 @@
 
 <div class="about-box" align="left">
     <h3 class="perspective-header">
-        A little bit about myself:
+        Um pouco sobre mim:
     </h3>
     <p class="perspective-text" text-align="justify">
-        I am a back-end focused developer, with my roots buried deep within Python. 
-        I can learn new things with ease and when working with others, I strongly add
-        to the team, always adapting to new technologies as they evolve with time. 
-        Thanks to my previous experiences, I am capable of maintaining a constant
-        stream of efficiency, even under pressure, delivering quick results while
-        not sacrificing quality for the sake of it.
+        Desenvolvedor com foco em Python, atuando na criação de aplicações eficientes, escaláveis e bem estruturadas, com atenção à qualidade do código e integração com serviços e bancos de dados, além de especialização em análise e visualização de dados, criação de pipelines de dados eficientes e bem elaborados, seguindo os conceitos de ETL, e aplicação de modelos estatísticos para extração de insights relevantes.
     </p>
     <p class="perspective-text" text-align="justify">
-        When it comes to my abilities, I wield solid knowledge of the Python language
-        and its packages, with experience in developing RESTful APIs using Django and
-        FastAPI, in addition to fundamental comprehension in modeling databases such as
-        MySQL and SQLite3, managing data with PowerBI and containers with Docker.
-        When reading codes, I go after the details, so that I can detect any faults and
-        errors. Creativity and versatility are also in my repertoire, along with my good
-        dispositions when working in teams, assuring great results.
+        Busco constantemente aprender e evoluir, mantendo uma postura colaborativa, curiosa e comprometida com a qualidade do que entrego. Estou aberto a novos desafios onde possa aplicar e expandir meus conhecimentos, contribuindo com soluções sólidas e crescendo junto com o time.
     </p>
 </div>
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clausalaerth&layout=compact&theme=radical" width="300px" height="230px" align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=clausalaerth&show_icons=true&theme=radical" width="390px" height="230px" align="right">
 
 <div class="tech-box" align="left">
     <h3 class="tech-header">
-        Tools & Technologies:
+        Tecnologias e ferramentas:
     </h3>
-    <p align="center">
-      <a href="https://go-skill-icons.vercel.app/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,py,django,fastapi,mysql,pbi,docker,gcp,selenium,git,github,figma"/>
-      </a>
+    <p>
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,py,php,django"/>
+    </p>
+    <p>
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,mysql,selenium,pbi,docker"/>
+    </p>
+    <p>
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp,azure,git,github,figma"/>
     </p>
 </div>
 
-<div align="center">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=clausalaerth&theme=radical">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clausalaerth&layout=donut&theme=radical">
-</div>
-
 ---
 
-<div align="center">
-    <img src="https://profile-counter.glitch.me/clausalaerth/count.svg" alt="Número de visitantes no perfil" width="19%" height="30px">
-</div>
-
----
