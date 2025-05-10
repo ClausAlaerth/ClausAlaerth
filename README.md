@@ -23,7 +23,7 @@
     </p>
 </div>
 
-<div class="about-box" align="left">
+<div class="about-box" width="300px" align="left">
     <h3 class="perspective-header">
         Um pouco sobre mim:
     </h3>
