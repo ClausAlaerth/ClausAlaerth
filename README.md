@@ -4,13 +4,11 @@
 
 ---
 
-<img src="https://i.pinimg.com/736x/f0/dc/73/f0dc73ba962b2c63871d816900881bae.jpg" alt="ilustração de um computador" width="22%" align="right">
-<img src="https://i.pinimg.com/736x/dd/fa/8e/ddfa8e4d65b9f25805d2d797c1c25d87.jpg" alt="ilustração de um computador" width="22%" align="right">
-<img src="https://i.pinimg.com/736x/cb/aa/14/cbaa149c6ace42845cd3d5ca58ba4b7b.jpg" alt="ilustração de um computador" width="22%" align="right">
+<img src="https://i.pinimg.com/736x/cc/4d/1d/cc4d1d1ec11b16435ee71bbf7a349c42.jpg" alt="ilustração de um computador" width="40%" align="right">
 
 <div class="contact-box" align="left">
     <h3 class="contact-header">
-        Você pode me encontrar aqui:
+        Me encontre por aqui:
     </h3>
     <p class="link-box">
         <a href="https://www.linkedin.com/in/aquino-lucas/" title="LinkedIn" target="_blank">
