@@ -4,8 +4,8 @@
 
 ---
 
-<img src="https://i.pinimg.com/736x/eb/de/8c/ebde8c595ec33c9cf071384186e9e8f1.jpg" alt="ilustração de um computador" width="300px" align="right">
-<img src="https://i.pinimg.com/736x/7c/5e/f1/7c5ef1a84587cf7ed92e43f421fd8b1b.jpg" alt="ilustração de um computador" width="300px" align="right">
+<img src="https://i.pinimg.com/736x/eb/de/8c/ebde8c595ec33c9cf071384186e9e8f1.jpg" alt="ilustração de um computador" width="31%" align="left">
+<img src="https://i.pinimg.com/736x/7c/5e/f1/7c5ef1a84587cf7ed92e43f421fd8b1b.jpg" alt="ilustração de um computador" width="31%" align="right">
 
 <div class="contact-box" align="left">
     <h3 class="contact-header">
