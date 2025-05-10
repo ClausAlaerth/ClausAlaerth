@@ -1,10 +1,10 @@
 <div class="title-box" align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=200&color=F70CF6&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Lucas+Aquino!;Desenvolvedor+com+foco+em+Python!;Me+aprofundando+em+Engenharia+e+An%C3%A1lise+de+Dados!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=200&color=FEFF19FF&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Lucas+Aquino!;Desenvolvedor+com+foco+em+Python!;Me+aprofundando+em+Engenharia+e+An%C3%A1lise+de+Dados!" alt="Typing SVG" /></a>
 </div>
 
 ---
 
-<img src="https://i.pinimg.com/736x/cc/4d/1d/cc4d1d1ec11b16435ee71bbf7a349c42.jpg" alt="ilustração de um computador" width="40%" align="right">
+<img src="https://i.pinimg.com/736x/f6/b7/c1/f6b7c140e4021f3c18b5ee5f384b9e15.jpg" alt="ilustração de um computador" width="40%" align="right">
 
 <div class="contact-box" align="left">
     <h3 class="contact-header">
