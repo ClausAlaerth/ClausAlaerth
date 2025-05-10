@@ -4,7 +4,7 @@
 
 ---
 
-<img src="https://i.pinimg.com/736x/eb/de/8c/ebde8c595ec33c9cf071384186e9e8f1.jpg" alt="ilustração de um computador" width="20%" align="right">
+<img src="https://i.pinimg.com/736x/eb/de/8c/ebde8c595ec33c9cf071384186e9e8f1.jpg" alt="ilustração de um computador" width="200px" align="right">
 
 <div class="contact-box" align="left">
     <h3 class="contact-header">
