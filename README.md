@@ -31,7 +31,7 @@
         Sou um desenvolvedor com foco em Python, atuando na criação de aplicações eficientes, escaláveis e bem estruturadas, com atenção à qualidade do código e integração com serviços e bancos de dados, além de especialização em análise e visualização de dados, criação de pipelines de dados eficientes e bem elaborados, seguindo os conceitos de ETL, e aplicação de modelos estatísticos para extração de insights relevantes.
     </p>
     <p class="perspective-text" text-align="justify">
-        Busco constantemente aprender e evoluir, mantendo uma postura colaborativa, curiosa e comprometida com a qualidade do que entrego. Estou aberto a novos desafios onde possa aplicar e expandir meus conhecimentos, contribuindo com soluções sólidas e crescendo junto com o time.<br><br>
+        Busco constantemente aprender e evoluir, mantendo uma postura colaborativa, curiosa e comprometida com a qualidade do que entrego. Estou aberto a novos desafios onde possa aplicar e expandir meus conhecimentos, contribuindo com soluções sólidas e crescendo junto com o time.
     </p>
 </div>
 
