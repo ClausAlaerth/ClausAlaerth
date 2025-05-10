@@ -4,7 +4,7 @@
 
 ---
 
-<img src="https://github.com/user-attachments/assets/38bb10b1-2bfa-47d4-835a-cfa1e9807780" alt="ilustração de um computador" width="55%" align="right">
+<img src="https://i.pinimg.com/736x/f0/dc/73/f0dc73ba962b2c63871d816900881bae.jpg" alt="ilustração de um computador" width="65%" align="right">
 
 <div class="contact-box" align="left">
     <h3 class="contact-header">
