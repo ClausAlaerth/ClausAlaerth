@@ -27,7 +27,9 @@
         Um pouco sobre mim:
     </h3>
     <p class="perspective-text" text-align="justify">
-        Sou um desenvolvedor com foco em Python, atuando na criação de aplicações eficientes, escaláveis e bem estruturadas, com atenção à qualidade do código e integração com serviços e bancos de dados, além de especialização em análise e visualização de dados, criação de pipelines de dados eficientes e bem elaborados, seguindo os conceitos de ETL, e aplicação de modelos estatísticos para extração de insights relevantes.
+        Analista de Dados com expertise em Python, especializado na construção de pipelines de dados eficientes e escaláveis, garantindo a integração fluida entre diferentes fontes e bancos de dados. Experiente na implementação
+de processos ETL, modelagem de dados e otimização de fluxos para garantir a qualidade e confiabilidade das informações. Hábil em análise exploratória e visualização de dados para extração de insights estratégicos, além
+de aplicar modelos estatísticos para suporte à tomada de decisões. Comprometido com boas práticas de engenharia de software, garantindo código limpo, bem estruturado e de fácil manutenção.
     </p>
     <p class="perspective-text" text-align="justify">
         Busco constantemente aprender e evoluir, mantendo uma postura colaborativa, curiosa e comprometida com a qualidade do que entrego. Estou aberto a novos desafios onde possa aplicar e expandir meus conhecimentos, contribuindo com soluções sólidas e crescendo junto com o time.
