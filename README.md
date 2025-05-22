@@ -29,10 +29,7 @@
     <p class="perspective-text" text-align="justify">
         Analista de Dados com expertise em Python, especializado na construção de pipelines de dados eficientes e escaláveis, garantindo a integração fluida entre diferentes fontes e bancos de dados. Experiente na implementação
 de processos ETL, modelagem de dados e otimização de fluxos para garantir a qualidade e confiabilidade das informações. Hábil em análise exploratória e visualização de dados para extração de insights estratégicos, além
-de aplicar modelos estatísticos para suporte à tomada de decisões. Comprometido com boas práticas de engenharia de software, garantindo código limpo, bem estruturado e de fácil manutenção.
-    </p>
-    <p class="perspective-text" text-align="justify">
-        Busco constantemente aprender e evoluir, mantendo uma postura colaborativa, curiosa e comprometida com a qualidade do que entrego. Estou aberto a novos desafios onde possa aplicar e expandir meus conhecimentos, contribuindo com soluções sólidas e crescendo junto com o time.
+de aplicar modelos estatísticos para suporte à tomada de decisões. Comprometido com boas práticas de engenharia de software, garantindo código limpo, bem estruturado e de fácil manutenção.<br><br><br><br>
     </p>
 </div>
 
